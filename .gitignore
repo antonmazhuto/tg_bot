@@ -2,3 +2,4 @@
 node_modules
 dist
 .bot_tg_rc
+yarn.lock

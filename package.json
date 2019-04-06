@@ -4,13 +4,13 @@
   "dependencies": {
     "@types/rc": "^1.1.0",
     "rc": "^1.2.8",
-    "telegraf": "^3.27.1",
-    "typescript": "^3.4.2"
+    "telegraf": "^3.27.1"
   },
   "scripts": {
     "start": "nodemon dist/bot/bot.js"
   },
   "devDependencies": {
-    "nodemon": "^1.18.10"
+    "nodemon": "^1.18.10",
+    "typescript": "^3.4.2"
   }
 }
